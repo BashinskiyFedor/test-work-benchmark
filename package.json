@@ -1,0 +1,10 @@
+{
+  "name": "sequential-download-benchmark",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A tiny CLI tool for measuring sequential HTTP download time, size, and speed",
+  "scripts": {
+    "benchmark": "node main.js"
+  }
+}
